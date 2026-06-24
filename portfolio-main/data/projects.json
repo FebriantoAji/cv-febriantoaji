@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Smart lock Door System",
+        "year": "2023",
+        "fund": "IDR 200,000 Academic Group Project",
+        "partner": "State Polytechnic of Semarang (Team Class)",
+        "role": "Electrical Engineer",
+        "description": "Served as the Electrical Engineer in the Smart Lock Door System project. Responsible for electrical circuit assembly, component wiring, power distribution, and hardware integration between the microcontroller, keypad, LCD, and electronic door lock. Performed system testing and troubleshooting to ensure reliable real-time access control.",
+        "image": "images/mikro.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "ESP32 Stair-Climbing Robot",
+        "year": "2025",
+        "partner": "State Polytechnic of Semarang (Team Class)",
+        "role": "Electrical Engineer",
+        "description": "Developed a voice-controlled stair-climbing robot using an ESP32 as the main controller. As the Electrical Engineer, I was responsible for electrical wiring, hardware assembly, motor driver integration, power distribution, and sensor connections. The robot is activated through voice commands sent from a smartphone, enabling hands-free operation and reliable stair-climbing performance.",
+        "image": "images/robotmeka.jpeg",
+        "link": "https://example.com/assembly-optimization"
+    },
+	{
+        "title": "Water Level Control using PID",
+        "year": "2025",
+        "partner": "State Polytechnic of Semarang (Team Class)",
+        "role": "Electrical Engineer",
+        "description": "Developed a PID-based water level control system as the Electrical Engineer. Responsible for electrical wiring, hardware assembly, sensor and actuator integration, and power distribution. Conducted system testing and troubleshooting to ensure reliable communication between electrical components and stable operation during real-time water level control..",
+        "image": "images/skd.jpeg",
+        "link": "https://example.com/assembly-optimization"
+    },
+	{
+        "title": "Smart Hidroponic",
+        "year": "2025",
+        "partner": "State Polytechnic of Semarang (Team Class)",
+        "role": "Electrical Engineer",
+        "description": "Developed an IoT-based smart hydroponic monitoring system using ESP32 and Firebase for real-time environmental monitoring. As the Electrical Engineer, I was responsible for electrical wiring, hardware assembly, sensor integration, power distribution, and ensuring reliable communication between the hardware and the cloud platform. The system continuously monitors key hydroponic parameters, enabling users to remotely access real-time data through Firebase for efficient crop management.",
+        "image": "images/sh.jpeg",
+        "link": "https://example.com/assembly-optimization"
+    }
+]

@@ -1,0 +1,33 @@
+{
+    "name": "Febrianto Aji",
+    "description": "Dedicated and dynamic Electrical Engineering student with a strong passion for robotics, automation, and embedded systems. Possessing a solid academic foundation complemented by hands-on experience in developing various engineering projects, ranging from autonomous robot navigation to smart environmental monitoring systems. Highly skilled in hardware-software integration with core expertise in microcontrollers, Internet of Things (IoT) architectures, Programmable Logic Controllers (PLC), and programming (C/C++, Python). Adept at applying theoretical knowledge to practical solutions, including sensor integration for signal measurement and motor control design. Seeking a challenging internship or entry-level position to leverage technical proficiency and enthusiasm for innovation in impactful real-world engineering projects.",
+    "profileImage": "images/febri.jpg",
+    "email": "febrianto.43423008@mhs.polines.ac.id",
+    "phone": "+62 (858) 332-82179",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/febriann1aj"
+        },
+        {
+            "platform": "youtube",
+            "url": "https://youtube.com/@febriantoaji5691"
+        }
+        
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Microcontroller(Arduino/esp)", "icon": "fas fa-microchip", "level": 88},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
+        {"name": "PLC & Automations", "icon": "fas fa-desktop", "level": 88},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 70},
+        {"name": "Instrumentation", "icon": "fab fa-book", "level": 80},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 79},
+	{"name": "PCB design", "icon": "fas fa-pen", "level": 88},
+	{"name": "Robotics & Control", "icon": "fas fa-robot", "level": 85}
+    ]
+}
